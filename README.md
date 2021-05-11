@@ -1,2 +1,6 @@
-# Cafeteria_management_system
-Made by Me, Ananya and Devika for college mini project work
+## CAFETERIA MANAGEMENT SYSTEM
+
+Made by:
+* Drishika (me😋)
+* Ananya
+* Devika, for college mini project work
