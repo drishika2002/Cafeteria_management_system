@@ -11,7 +11,7 @@ The project Cafeteria Management helps the customer to order their food. The use
 * Bill calculation
 * Add Feedback
 
-#### Made by:
-* Drishika (me😋)
+#### CONTRIBUTORS
+* Drishika
 * Ananya
-* Devika, for college mini project work
+* Devika
